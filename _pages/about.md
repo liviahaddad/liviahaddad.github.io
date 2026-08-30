@@ -12,5 +12,5 @@ I am a PhD student in Political Science at [Harvard University](https://gov.harv
 # Education
 
 - M.S. in Economics, São Paulo School of Economics - FGV, 2026
-- B.S. in Law (summa cum laude), University of São Paulo, 2024
+- B.S. in Law (summa cum laude), University of São Paulo - USP, 2024
 - B.S. in Economics, São Paulo School of Economics - FGV, 2023
