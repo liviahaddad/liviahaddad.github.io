@@ -13,4 +13,4 @@ author_profile: true
   </details>
 
 ## Book Chapters
-- **State Intervention and the Politics of Energy Rationing in Brazil** with Fernando Limongi (Manuscript for Alisha Holland's forthcoming book)
+- **State Intervention and the Politics of Energy Rationing in Brazil** with [Fernando Limongi] (https://scholar.google.com/citations?user=I7GVLa8AAAAJ&hl=pt-BR) (Manuscript for [Alisha Holland] (https://www.alishaholland.com/about/)'s forthcoming book)
